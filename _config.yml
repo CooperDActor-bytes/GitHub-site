@@ -44,7 +44,7 @@ projects:
   # unsplash: your_username
   # vk: your_username
   website: https://salty.cool/
-  youtube: @SaltysWorld
+  youtube: SaltysWorld
 
 topics:
   - name: CSS
